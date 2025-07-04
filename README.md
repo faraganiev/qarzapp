@@ -24,7 +24,8 @@
 
 | Интерфейс клиента | Админ-панель |
 |-------------------|---------------|
-| ![screenshot1](ссылка_на_картинку1) | ![screenshot2](ссылка_на_картинку2) |
+| ![screenshot1](![image](https://github.com/user-attachments/assets/e562eec3-06ff-4252-85cb-b2ade78dcb67)
+) | ![screenshot2](ссылка_на_картинку2) |
 
 ---
 

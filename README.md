@@ -20,12 +20,16 @@
 
 ---
 
-## 📸 Скриншоты:
+## 📸 Скриншоты
 
-| Интерфейс клиента 
-|-------------------
-| (![image](https://github.com/faraganiev/qarzapp/blob/main/Screenshot_1.png)
-) | ![screenshot2](ссылка_на_картинку2)](https://github.com/faraganiev/qarzapp/blob/main/Screenshot_1.png) |
+| Интерфейс клиента | Добавление долга |
+|-------------------|------------------|
+| ![](https://github.com/faraganiev/qarzapp/raw/main/screen1.png) | ![](https://github.com/faraganiev/qarzapp/raw/main/screen2.png) |
+
+| История платежей | Админ-панель |
+|------------------|--------------|
+| ![](https://github.com/faraganiev/qarzapp/raw/main/screen3.png) | ![](https://github.com/faraganiev/qarzapp/raw/main/screen4.png) |
+
 
 ---
 

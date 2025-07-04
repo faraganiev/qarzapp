@@ -24,7 +24,7 @@
 
 | Интерфейс клиента | Добавление долга |
 |-------------------|------------------|
-| ![]([https://github.com/faraganiev/qarzapp/raw/main/screen1.png](https://github.com/faraganiev/qarzapp/blob/main/Screenshot_2.png)) | ![](https://github.com/faraganiev/qarzapp/raw/main/screen2.png) |
+| [![]([https://github.com/faraganiev/qarzapp/raw/main/screen1.png]](https://github.com/faraganiev/qarzapp/blob/main/Screenshot_2.png)(https://github.com/faraganiev/qarzapp/blob/main/Screenshot_2.png)) | ![](https://github.com/faraganiev/qarzapp/raw/main/screen2.png) |
 
 | История платежей | Админ-панель |
 |------------------|--------------|

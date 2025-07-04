@@ -24,7 +24,7 @@
 
 | Интерфейс клиента | Админ-панель |
 |-------------------|---------------|
-| ![screenshot1](![image](https://github.com/user-attachments/assets/e562eec3-06ff-4252-85cb-b2ade78dcb67)
+| ![screenshot1][(![image](https://github.com/user-attachments/assets/e562eec3-06ff-4252-85cb-b2ade78dcb67)](https://github.com/faraganiev/qarzapp/blob/main/Screenshot_1.png)
 ) | ![screenshot2](ссылка_на_картинку2) |
 
 ---

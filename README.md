@@ -26,7 +26,7 @@
 |-------------------|------------------|
 | ![](https://github.com/faraganiev/qarzapp/raw/main/Screenshot_1.png) | ![](https://github.com/faraganiev/qarzapp/raw/main/Screenshot_2.png) |
 
-| История платежей | Админ-панель |
+| Долги | Просроченные долги |
 |------------------|--------------|
 | ![](https://github.com/faraganiev/qarzapp/raw/main/Screenshot_3.png) | ![](https://github.com/faraganiev/qarzapp/raw/main/Screenshot_4.png) |
 
